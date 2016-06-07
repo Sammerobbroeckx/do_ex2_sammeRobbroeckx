@@ -1,0 +1,1 @@
+ssh-keyscan lb web1 web2  .sshknown_hosts
